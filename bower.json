@@ -1,0 +1,22 @@
+{
+  "name": "linqjs",
+  "version": "3.0.3-Beta4",
+  "homepage": "https://github.com/2sky/linqjs",
+  "authors": [
+    "neuecc <ils@neue.cc>"
+  ],
+  "description": "LINQ for JavaScript",
+  "main": "linq.min.js",
+  "keywords": [
+    "linq",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
